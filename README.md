@@ -3,7 +3,7 @@ Short pilot of e-foodie
 
 This is a repository to build a mock-up for an E_Commerce
 
-# An E_commerce chain powered by a SupplyChainAI__Klara.AI
+# An E_commerce chain powered by a :robot:SupplyChainAI__Klara.AI
 
 
 1. Download html files
