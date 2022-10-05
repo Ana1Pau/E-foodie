@@ -6,7 +6,7 @@ This is a repository to build a mock-up for an E_Commerce
 # An E_commerce chain powered by a :robot:SupplyChainAI__Klara.AI
 
 
-1. Download html files
+1. Download all files
 ``` 
 
 ``` 
@@ -14,5 +14,5 @@ This is a repository to build a mock-up for an E_Commerce
  ``` 
 
 ``` 
-3. Open files, test your in your favorite web browser
+3. Open files, test them in your favorite web browser
 ``` 
