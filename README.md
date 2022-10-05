@@ -17,4 +17,4 @@ This is a repository to build a mock-up for an E_Commerce
 3. Open files, test them in your favorite web browser
 ``` 
 
-#** Please if you are using this file as a template , do not forget to follow as thanks to the author
+#** Please if you are using this repository as a template , do not forget to follow to thank the author
